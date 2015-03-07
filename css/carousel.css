@@ -1,0 +1,17 @@
+.carousel-inner > .item > img {
+    margin: 0 auto;
+}
+.carousel-inner{
+    background: #ED5565;
+}
+
+.nav.navbar-nav.navbar-right li a {
+    color: #da4453;
+    }
+
+.navbar #nav > .active > a {
+    border-bottom: red;
+}
+.badge, .label {
+  background-color: #da4453;
+}
